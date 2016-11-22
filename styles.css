@@ -1,10 +1,10 @@
 /* Master Styles */
 .navbar-inverse {
-  background-color: #09756c;
-  border-color: #0a8baf;
+  background-color: #5bc0de;
+  border-color: #1b8bad;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
     color: #fff;
-    background-color: #861024;
+    background-color: #d9534f;;
 }
